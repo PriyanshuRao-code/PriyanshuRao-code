@@ -1,19 +1,32 @@
 # 👋 Hi, I'm Priyanshu Rao!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=🎓+B.Tech+CS+Student+%7C+IIT+Dharwad;🤖+AI+Enthusiast+%7C+ML+Explorer;📚+Lifelong+Learner+%F0%9F%92%AD+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
-### 🚀 B.Tech Student | Web Developer | AI Enthusiast  
-I'm currently pursuing my **B.Tech in Computer Science** at **IIT Dharwad**. I love **coding, web development, and AI**, and I'm always looking for opportunities to build and contribute to exciting projects.  
+## 🚀 About Me
 
-📩 **Reach out to me:**  
-✉️ Email: [priyanshurao108@gmail.com](mailto:priyanshurao108@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/priyanshu-rao](https://www.linkedin.com/in/priyanshu-rao/)  
-🖥️ GitHub: [github.com/PriyanshuRao-code](https://github.com/PriyanshuRao-code)  
+🎓 I’m a **Computer Science student** at **IIT Dharwad**  
+💡 Passionate about **coding**, **startups**, and **AI**  
+💻 I love building full-stack projects and solving real-world problems  
+🧠 Learning Python, DSA, JavaScript, and exploring Machine Learning  
+📬 Reach out to me at:  
+&nbsp;&nbsp;&nbsp;&nbsp;📧  [priyanshurao108@gmail.com](mailto:priyanshurao108@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [linkedin.com/in/priyanshu-rao](https://www.linkedin.com/in/priyanshu-rao/)
+&nbsp;&nbsp;&nbsp;&nbsp;🖥️ [github.com/PriyanshuRao-code](https://github.com/PriyanshuRao-code)  
 
 ---
 
 ## 📌 **My Projects**
 ### 🔬 **AI & Machine Learning**
 - **[AI-Lab-Project](https://github.com/PriyanshuRao-code/AI-Lab-Project) (Jupyter Notebook)**
-  - A **machine learning project** using supervised learning techniques.  
+  - 🚀 NASA Asteroid Hazard Prediction
+  - This project predicts whether an asteroid is hazardous or not using multiple machine learning models.
+ 
+### ⚙️ ToyRISC Processor Designing
+- **[Computer-Architecture-Lab](https://github.com/PriyanshuRao-code/Computer-Architecture-Lab.git)**
+  - This repository showcases my implementations and notes from the Computer Architecture course labs.
+  - Each lab explores key concepts in modern processor design and simulation, including topics like instruction execution, pipelining, and memory systems.
+
 
 ### 🌐 **Web Development**
 - **[HarshTaal25Web](https://github.com/NileshBarandwal/HarshTaal25.git) (React)**
@@ -26,57 +39,37 @@ I'm currently pursuing my **B.Tech in Computer Science** at **IIT Dharwad**. I l
   - Very small projects (For learning purpose)
 
 ---
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,bash,html,css,bootstrap,js,git,github,latex,vscode" />
+</p>
+
+---
+
 
 ## 📊 **GitHub Stats**
 ![Priyanshu Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuRao-code&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRao-code&layout=compact&theme=radical)  
 
 ---
-## ⚡ Tech Stack
 
-<div align="center">
+## 🔥 Contribution Streak
 
-<table style="width: 100%; border-spacing: 15px;">
-  <tr>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="85"/><br><b>C</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="85"/><br><b>Python</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="85"/><br><b>Bash</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="85"/><br><b>HTML5</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="85"/><br><b>CSS3</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="85"/><br><b>Bootstrap</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="85"/><br><b>Git</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="85"/><br><b>GitHub</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="85"/><br><b>LaTeX</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshuRao-code&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
-_💡 Passionate about exploring new technologies and solving real-world problems_   
-✨ _Feel free to connect with me on **LinkedIn** or **GitHub**!_
+## 🧠 Fun Fact
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
+> 🔍 I'm called the "**Intent Detective**" for debugging and catching sneaky logic errors 😎
+
+---
+
+⭐️ _Thanks for visiting! Let's connect and build something awesome!_ 🚀
+
