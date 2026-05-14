@@ -16,27 +16,74 @@
 
 ---
 
-## 📌 **My Projects**
-### 🔬 **AI & Machine Learning**
-- **[AI-Lab-Project](https://github.com/PriyanshuRao-code/AI-Lab-Project) (Jupyter Notebook)**
-  - 🚀 NASA Asteroid Hazard Prediction
-  - This project predicts whether an asteroid is hazardous or not using multiple machine learning models.
- 
-### ⚙️ ToyRISC Processor Designing
-- **[Computer-Architecture-Lab](https://github.com/PriyanshuRao-code/Computer-Architecture-Lab.git)**
-  - This repository showcases my implementations and notes from the Computer Architecture course labs.
-  - Each lab explores key concepts in modern processor design and simulation, including topics like instruction execution, pipelining, and memory systems.
+## 🚀 Featured Projects
+### 🧠 Multimodal VQA using ViLT + LXMERT Fusion
+**Tech:** Python • PyTorch • Transformers • ViLT • LXMERT • FastAPI
+
+- Designed a multimodal Visual Question Answering system combining global and region-level reasoning
+- Implemented Cross-Attention fusion and Complementary Pair fine-tuning
+- Achieved **70.71% VQA accuracy**
+- Built an end-to-end training, inference and web deployment pipeline
+
+🔗 [Repository](https://github.com/RMan2323/ViLT-LXMERT-Fusion)
+
+---
+
+### 🤖 Mega-AI — Multi-Agent Orchestration Framework
+**Tech:** Python • FastAPI • Docker • PostgreSQL • Multi-Agent Systems • RAG • LLM Integration
+
+- Built a scalable multi-agent orchestration framework for complex reasoning workflows
+- Implemented dynamic routing, dependency-aware scheduling, retry mechanisms and execution tracing
+- Integrated AI-assisted development workflows while manually handling architecture integration, debugging and system stabilization
+- Added specialized agents for retrieval, critique, synthesis and compression
+- Supports containerized deployment and extensible tool integrations
+
+🔗 [Repository](https://github.com/PriyanshuRao-code/mega-ai)
+
+---
+
+### 🩻 Efficient Medical Image Super Resolution
+**Tech:** Python • PyTorch • Lite-SRGAN • DVMSR
+
+- Developed super-resolution models for chest X-ray image enhancement
+- Applied knowledge distillation using teacher–student architecture
+- Evaluated performance using generated metrics and image reconstruction analysis
+- Experimented with lightweight architectures for efficient medical imaging
+
+🔗 [Repository](https://github.com/PriyanshuRao-code/Efficient-Super-Resolution.git)
+
+---
+
+### ☄️ NASA Asteroid Hazard Prediction
+**Tech:** Python • Scikit-Learn • Data Analysis • ML
+
+- Built machine learning pipeline to classify hazardous and non-hazardous asteroids
+- Performed preprocessing, feature engineering and comparative model analysis
+- Evaluated models using multiple performance metrics
+
+🔗 [Repository](https://github.com/PriyanshuRao-code/AI-Lab-Project.git)
+
+---
+### ⚙️ Operating Systems Simulations & Systems Programming
+**Tech:** C++ • Linux • OS Concepts • Process Management • IPC
+
+- Implemented operating system concepts through hands-on systems programming projects
+- Built simulations for CPU scheduling algorithms (FIFO, SJF, PSJF, Round Robin)
+- Developed memory management and page replacement systems (FIFO, LRU, Optimal, Random)
+- Implemented process creation, signal handling, file partitioning and concurrent searching using `fork()` and `exec()`
+- Built IPC-based image processing pipelines using Pipes and multi-process communication
+
+🔗 [Repository](https://github.com/PriyanshuRao-code/Operating-Systems.git)
+
+---
 
 
-### 🌐 **Web Development**
-- **[HarshTaal25Web](https://github.com/NileshBarandwal/HarshTaal25.git) (React)**
-  - Contributed to **IIT Dharwad's Cultural Fest** website.  
+### 🎨 Personal Portfolio
+**Tech:** HTML • CSS • JavaScript
 
-### 💻 **C Programming Projects**
-- **[C_prog_MathFusion-Project](https://github.com/PriyanshuRao-code/C_prog_MathFusion-Project)**  
-  - A fun project I built in my **first year** while learning C ! 😊😂  
-- **Room-Alloter, Path-Finder** (C)  
-  - Very small projects (For learning purpose)
+- Built a responsive portfolio showcasing projects and experience
+
+🔗 https://priyanshurao-code.github.io/
 
 ---
 ## ⚡ Tech Stack
@@ -46,11 +93,11 @@
 
 ---
 
-
-## 📊 **GitHub Stats**
-![Priyanshu Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuRao-code&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRao-code&layout=compact&theme=radical)  
-
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PriyanshuRao-code&show_icons=true&theme=radical"/> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PriyanshuRao-code&layout=compact&theme=radical"/> 
+</p>
 ---
 
 ## 🔥 Contribution Streak
